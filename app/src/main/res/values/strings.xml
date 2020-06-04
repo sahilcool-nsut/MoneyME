@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MoneyME</string>
+    <string name="title_info">Manage all your expenses in one place</string>
+    <string name="manage">Manage my Expenses</string>
+    <string name="title_title">MoneyME</string>
+    <string name="title_tagline">Where Money meets You</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="balance">Balance</string>
+    <string name="income_value">0</string>
+    <string name="expense_value">0</string>
+    <string name="balance_value">0</string>
+    <string name="transaction_title">Transactions</string>
+    <string name="transaction_button">Transaction Type</string>
+    <string name="add_income">Income</string>
+    <string name="add_expense">Expense</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="done">Done</string>
+
+    <string name="title"><![CDATA[<h3>HERE IS YOUR TRANSACTION DATA</h3>]]></string>
+    <string name="income_text"><![CDATA[<b>You Added: </b>]]></string>
+    <string name="expense_text"><![CDATA[<b>You Spent: </b>]]></string>
+    <string name="quality"><![CDATA[<b>Quality:</b>]] ></string>
+    <string name="hours_slept"><![CDATA[<b>Hours:Minutes:Seconds</b>]]></string>
+    <string name="clear">Clear History</string>
+    <string name="about_title">About</string>
+    <string name="about_info">Managing your expenses has never been so easy. Record your transactions and easily find out where you have been spending the most. With an added <i>&quot;remarks&quot;</i> and <i>&quot;date&quot;</i> feature, you can never forget when or for what you made a transaction.<b>The App provides the simplest interface</b>, with various options like to clear transaction history or to clear all data. Mistakenly cleared transaction history? Don\'t worry, we got your last transaction still there, just in case. Start saving today!</string>
+    <string name="about_menu_option">About App</string>
+    <string name="clear_all_data">Clear All Data</string>
+    <string name="clear_all_data_option">Clear All Data</string>
+    <string name="transaction_type">Transaction Type</string>
+    <string name="created_by">DEVELOPED BY - Sahil Chawla</string>
+
+</resources>
